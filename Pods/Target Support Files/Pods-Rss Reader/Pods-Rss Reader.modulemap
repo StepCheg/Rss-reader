@@ -1,0 +1,6 @@
+framework module Pods_Rss_Reader {
+  umbrella header "Pods-Rss Reader-umbrella.h"
+
+  export *
+  module * { export * }
+}
